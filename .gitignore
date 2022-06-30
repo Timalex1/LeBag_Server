@@ -1,0 +1,7 @@
+/node_modules
+.pnp.js
+
+/build
+
+.env
+.env.test.local
